@@ -2,16 +2,16 @@
 
 🎓 **B.Tech – Electronics & Communication Engineering**  
 🏫 **RGUKT (IIIT) Andhra Pradesh**  
-💻 **Aspiring Full Stack Developer (MERN Stack)**  
+💻 **Aspiring Frontend Developer **  
 🎯 Passionate about Web Development, DSA & clean UI design  
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m a motivated **Engineering student and Full Stack Developer** who enjoys transforming ideas into **real-world, scalable web applications**.
+I’m a motivated **Engineering student and Frontend Developer** who enjoys transforming ideas into **real-world, scalable web applications**.
 
-I love working across **frontend and backend technologies**, focusing on **clean code, performance, and user experience**.
+I love working across **frontend  technologies**, focusing on **clean code, performance, and user experience**.
 
 > *“I don’t just write code — I build solutions that make an impact.”*
 
@@ -39,45 +39,6 @@ A responsive weather application providing real-time weather updates using publi
 
 **Tech Stack:**  
 `React.js` `API Integration` `CSS`
-
----
-
-### 🍔 Food Delivery Web Application
-A Zomato-like full stack food ordering platform.
-
-**Features**
-- User authentication  
-- Restaurant & menu listing  
-- Cart & order management  
-
-**Tech Stack:**  
-`MERN Stack` `JWT Authentication`
-
----
-
-### 🖼 Image Gallery Web App
-A full stack image gallery with likes and comments.
-
-**Features**
-- User login & image uploads  
-- Likes and comments system  
-- Albums management  
-
-**Tech Stack:**  
-`React` `Node.js` `MongoDB`
-
----
-
-### 💬 Real-Time Chat Application
-A real-time messaging application.
-
-**Features**
-- User authentication  
-- Live messaging using WebSockets  
-- Online/offline status  
-
-**Tech Stack:**  
-`React` `Node.js` `Socket.io`
 
 ---
 
