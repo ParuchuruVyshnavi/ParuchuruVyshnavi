@@ -11,7 +11,7 @@
 
 **ENGINEERING MIND. CREATIVE INSTINCT. DIGITAL CURIOSITY.**
 
-[MY DIGITAL SPACE ↗](vyshnavi-frontend-developer-portfol.vercel.app)　·　[MY GITHUB ↗](https://github.com/ParuchuruVyshnavi)
+[MY DIGITAL SPACE ↗](https://vyshnavi-frontend-developer-portfol.vercel.app)　·　[MY GITHUB ↗](https://github.com/ParuchuruVyshnavi)
 
 </div>
 
@@ -230,7 +230,7 @@ Not just the code. Not just the portfolio. The person behind it, too.
 
 <br/>
 
-<a href="vyshnavi-frontend-developer-portfol.vercel.app">
+<a href="https://vyshnavi-frontend-developer-portfol.vercel.app">
 <img src="https://img.shields.io/badge/STEP_INTO_MY_WORLD-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
 </a>
 
